@@ -1,57 +1,117 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&duration=3000&pause=1000&color=F89820&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Wenbingkun;Java+Developer+%26+Backend+Specialist;Building+Robust+Enterprise+Systems;Spring+Boot+%7C+Microservices+%7C+Cloud" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,2,30&height=220&section=header&text=Wenbingkun&fontSize=70&fontAlignY=35&fontColor=ffffff&animation=twinkling&desc=Java%20Developer%20%7C%20Backend%20Engineer&descAlignY=58&descSize=18" />
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&width=100%" />
+  <a href="https://github.com/wenbingkun">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=F89820&center=true&vCenter=true&width=720&lines=Hi+there+%F0%9F%91%8B+I'm+Wenbingkun;Java+Developer+%26+Backend+Specialist;Building+Robust+Enterprise+Systems;Spring+Boot+%7C+Microservices+%7C+Cloud+Native;Always+Learning%2C+Always+Coding+%E2%98%95" alt="Typing SVG" />
+  </a>
 </div>
 
-### 👨‍💻 关于我 | About Me
-
-- ☕ 我是一名 **Java 开发工程师**
-  > *I am a **Java Developer** focusing on backend systems.*
-- 🛠️ 擅长技术栈：**Java, Spring Boot, MySQL**
-  > *Core stack: **Java, Spring Boot, Database Design**.*
-- 🌱 正在探索：**分布式架构 & 云原生**
-  > *Exploring: **Distributed Systems & Cloud Native**.*
-- ⚡ 个人标签：**代码洁癖** 🧐
-  > *Tags: **Detective Conan Fan** & **Clean Code Enthusiast**.*
-
----
-
 <div align="center">
-
-| **📊 开发统计 (Stats)** | **🏆 语言分布 (Languages)** |
-|:---:|:---:|
-| <img src="https://github-readme-stats.vercel.app/api?username=wenbingkun&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117" width="400" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wenbingkun&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=6" width="400" /> |
-
+  <img src="https://komarev.com/ghpvc/?username=wenbingkun&label=Profile%20Views&color=f89820&style=flat-square" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/wenbingkun?label=Followers&style=flat-square&color=f89820" alt="followers" />
+  <img src="https://img.shields.io/github/stars/wenbingkun?label=Stars&style=flat-square&color=f89820" alt="stars" />
 </div>
 
----
-
-### ☕ 技术栈 | Tech Stack
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
 <br/>
 
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<br/>
+## 👨‍💻 关于我 | About Me
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+```yaml
+name: Wenbingkun
+role: Java Backend Developer
+location: China 🇨🇳
+current_focus:
+  - 分布式架构 / Distributed Systems
+  - 云原生 / Cloud Native
+  - 微服务治理 / Microservices Governance
+core_stack: [Java, Spring Boot, Spring Cloud, MySQL, Redis]
+tags: ["代码洁癖 🧐", "Clean Code Enthusiast", "Lifelong Learner"]
+motto: "Talk is cheap, show me the code."
+```
+
+- ☕ 我是一名 **Java 开发工程师**，专注后端系统 / *A **Java Developer** focusing on backend systems.*
+- 🛠️ 擅长技术栈：**Java · Spring Boot · MySQL · Redis** / *Core stack: Java, Spring Boot, MySQL, Redis.*
+- 🌱 正在探索：**分布式架构 & 云原生** / *Exploring: Distributed Systems & Cloud Native.*
+- 💬 欢迎交流技术问题 / *Feel free to reach out for tech discussions.*
+
+---
+
+## 🛠️ 技术栈 | Tech Stack
+
+<div align="center">
+
+### Languages & Frameworks
+<img src="https://skillicons.dev/icons?i=java,spring,python,js,html,css&theme=dark" />
+
+### Database & Middleware
+<img src="https://skillicons.dev/icons?i=mysql,redis,mongodb,kafka,rabbitmq&theme=dark" />
+
+### DevOps & Cloud
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,nginx,git,github&theme=dark" />
+
+### Tools & IDEs
+<img src="https://skillicons.dev/icons?i=idea,vscode,maven,postman&theme=dark" />
 
 </div>
 
 ---
 
+## 📊 GitHub 数据 | GitHub Stats
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wenbingkun&theme=tokyonight&hide_border=true&background=0d1117" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=wenbingkun&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117&title_color=f89820&icon_color=f89820" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wenbingkun&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=f89820&langs_count=8" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=wenbingkun&theme=tokyonight&hide_border=true&background=0d1117&stroke=f89820&ring=f89820&fire=f89820&currStreakLabel=f89820" />
+
+</div>
+
+---
+
+## 🏆 GitHub 奖杯 | Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=wenbingkun&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" />
+</div>
+
+---
+
+## 📈 活动图 | Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wenbingkun&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=f89820&line=f89820&point=ffffff&area=true&area_color=f89820" />
+</div>
+
+---
+
+## 💡 每日箴言 | Quote of the Day
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
+
+---
+
+## 📫 联系我 | Connect with Me
+
+<div align="center">
+  <a href="https://github.com/wenbingkun">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:wenbingkun@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,2,30&height=120&section=footer" />
+</div>
+
+<div align="center">
+  <sub>⭐ From <a href="https://github.com/wenbingkun">wenbingkun</a> with ❤️ · Thanks for visiting!</sub>
 </div>
