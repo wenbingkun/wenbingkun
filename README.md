@@ -62,23 +62,14 @@ motto: "Talk is cheap, show me the code."
 
 <div align="center">
 
-<img height="180" alt="stats" src="https://github-readme-stats.vercel.app/api?username=wenbingkun&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&v=2" />
-<img height="180" alt="top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wenbingkun&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&v=2" />
+<img alt="streak stats" src="https://streak-stats.demolab.com?user=wenbingkun&theme=tokyonight&hide_border=true&background=0d1117&stroke=f89820&ring=f89820&fire=f89820&currStreakLabel=f89820" />
 
-<br/>
+<br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=wenbingkun&theme=tokyonight&hide_border=true&background=0d1117&stroke=f89820&ring=f89820&fire=f89820&currStreakLabel=f89820" />
+<img alt="repos" src="https://img.shields.io/badge/dynamic/json?color=f89820&label=Public%20Repos&style=for-the-badge&logo=github&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fwenbingkun" />
+<img alt="followers badge" src="https://img.shields.io/github/followers/wenbingkun?label=Followers&style=for-the-badge&logo=github&color=f89820" />
+<img alt="stars badge" src="https://img.shields.io/github/stars/wenbingkun?label=Total%20Stars&style=for-the-badge&logo=github&color=f89820" />
 
-</div>
-
----
-
-## 🏆 GitHub 奖杯 | Trophies
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img alt="trophies" src="https://github-profile-trophy.vercel.app/?username=wenbingkun&theme=tokyonight&column=-1&row=1&margin-w=15&margin-h=15&v=2" />
-  </a>
 </div>
 
 ---
