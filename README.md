@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,2,30&height=220&section=header&text=Wenbingkun&fontSize=70&fontAlignY=35&fontColor=ffffff&animation=twinkling&desc=Java%20Developer%20%7C%20Backend%20Engineer&descAlignY=58&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F89820,100:FF6B35&height=220&section=header&text=Wenbingkun&fontSize=70&fontAlignY=35&fontColor=ffffff&animation=fadeIn&desc=Java%20Developer%20%7C%20Backend%20Engineer&descAlignY=58&descSize=18" alt="header" />
 </div>
 
 <div align="center">
@@ -76,23 +76,19 @@ motto: "Talk is cheap, show me the code."
 ## 🏆 GitHub 奖杯 | Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=wenbingkun&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=wenbingkun&theme=tokyonight&column=7&margin-w=10&margin-h=10" alt="trophies" />
 </div>
 
 ---
 
-## 📈 活动图 | Activity Graph
+## 💡 编程箴言 | Programming Wisdom
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wenbingkun&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=f89820&line=f89820&point=ffffff&area=true&area_color=f89820" />
-</div>
 
----
+> *"Talk is cheap. Show me the code."* — **Linus Torvalds**
+>
+> *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."* — **Martin Fowler**
 
-## 💡 每日箴言 | Quote of the Day
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </div>
 
 ---
@@ -109,7 +105,7 @@ motto: "Talk is cheap, show me the code."
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,2,30&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B35,100:F89820&height=120&section=footer" alt="footer" />
 </div>
 
 <div align="center">
