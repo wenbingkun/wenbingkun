@@ -62,8 +62,8 @@ motto: "Talk is cheap, show me the code."
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=wenbingkun&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117&title_color=f89820&icon_color=f89820" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wenbingkun&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=f89820&langs_count=8" />
+<img height="180" alt="stats" src="https://github-readme-stats.vercel.app/api?username=wenbingkun&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&v=2" />
+<img height="180" alt="top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wenbingkun&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&v=2" />
 
 <br/>
 
@@ -76,7 +76,9 @@ motto: "Talk is cheap, show me the code."
 ## 🏆 GitHub 奖杯 | Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=wenbingkun&theme=tokyonight&column=7&margin-w=10&margin-h=10" alt="trophies" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img alt="trophies" src="https://github-profile-trophy.vercel.app/?username=wenbingkun&theme=tokyonight&column=-1&row=1&margin-w=15&margin-h=15&v=2" />
+  </a>
 </div>
 
 ---
